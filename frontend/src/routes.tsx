@@ -8,39 +8,41 @@ import ExploradorPage from './pages/ExploradorPage'
 import InformePage from './pages/InformePage'
 import { RequireAuth } from './auth/AuthContext'
 
-export const router = createBrowserRouter([
-  {
-    path: '/',
-    element: <LoginPage />,
-  },
-  {
-    element: (
-      <RequireAuth>
-        <AppLayout />
-      </RequireAuth>
-    ),
-    children: [
-      {
-        path: '/dashboard',
-        element: <DashboardPage />,
-      },
-      {
-        path: '/mapa-salud',
-        element: <MapaSaludPage />,
-      },
-      {
-        path: '/tendencias',
-        element: <TendenciasPage />,
-      },
-      {
-        path: '/explorador',
-        element: <ExploradorPage />,
-      },
-      {
-        path: '/informe',
-        element: <InformePage />,
-      },
-    ],
-  },
-])
-
+export const router = createBrowserRouter(
+  [
+    {
+      path: '/',
+      element: <LoginPage />,
+    },
+    {
+      element: (
+        <RequireAuth>
+          <AppLayout />
+        </RequireAuth>
+      ),
+      children: [
+        {
+          path: '/dashboard',
+          element: <DashboardPage />,
+        },
+        {
+          path: '/mapa-salud',
+          element: <MapaSaludPage />,
+        },
+        {
+          path: '/tendencias',
+          element: <TendenciasPage />,
+        },
+        {
+          path: '/explorador',
+          element: <ExploradorPage />,
+        },
+        {
+          path: '/informe',
+          element: <InformePage />,
+        },
+      ],
+    },
+  ],
+  { basename: '/react_vite_node' }
+)

@@ -3,6 +3,10 @@ import { MapContainer, TileLayer, CircleMarker, Popup } from 'react-leaflet'
 import type { CaregiverProfessionalImpactRecord } from '../domain/health'
 import { fetchAllCaregiverImpactRecords } from '../application/health/caregiverImpactService'
 
+const MapContainerAny = MapContainer as any
+const TileLayerAny = TileLayer as any
+const CircleMarkerAny = CircleMarker as any
+
 function getIntensityColor(value: number, maxValue: number): string {
   if (maxValue <= 0) return '#bbf7d0'
   const t = Math.min(1, value / maxValue)
@@ -82,41 +86,6 @@ function MapaSaludPage() {
     setSelectedProvinces((prev) =>
       prev.includes(code) ? prev.filter((c) => c !== code) : [...prev, code],
     )
-  }
-
-  const PROVINCE_BOUNDS: Record<string, [[number, number], [number, number]]> = {
-    H: [
-      [37.4, -7.3],
-      [37.1, -6.6],
-    ],
-    SE: [
-      [37.6, -6.4],
-      [37.1, -5.4],
-    ],
-    CO: [
-      [38.1, -5.3],
-      [37.6, -4.3],
-    ],
-    JA: [
-      [38.1, -4.3],
-      [37.3, -3.1],
-    ],
-    CA: [
-      [36.8, -6.6],
-      [36.2, -5.2],
-    ],
-    MA: [
-      [37.1, -5.1],
-      [36.4, -3.4],
-    ],
-    GR: [
-      [37.6, -3.9],
-      [36.9, -2.6],
-    ],
-    AL: [
-      [37.0, -2.8],
-      [36.5, -1.8],
-    ],
   }
 
   return (
@@ -273,26 +242,23 @@ function MapaSaludPage() {
           </header>
 
           <div style={{ height: 420, borderRadius: 16, overflow: 'hidden' }}>
-            <MapContainer
+            <MapContainerAny
               center={[37.4, -4.7]}
               zoom={7}
               scrollWheelZoom={false}
               style={{ width: '100%', height: '100%' }}
             >
-              <TileLayer
+              <TileLayerAny
                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
               />
               {filteredRecords.map((record, index) => {
                 const value = record.value
                 const color = getIntensityColor(value, maxValue)
-                const radius =
-                  viewMode === 'puntos'
-                    ? 6
-                    : 6 + (value / (maxValue || 1)) * 10
+                const radius = viewMode === 'puntos' ? 6 : 6 + (value / (maxValue || 1)) * 10
 
                 return (
-                  <CircleMarker
+                  <CircleMarkerAny
                     key={`${record.provinceCode}-${index}`}
                     center={[record.lat!, record.lng!]}
                     radius={radius}
@@ -308,10 +274,10 @@ function MapaSaludPage() {
                       <br />
                       {record.value.toFixed(1)}% cuidadores con problemas profesionales
                     </Popup>
-                  </CircleMarker>
+                  </CircleMarkerAny>
                 )
               })}
-            </MapContainer>
+            </MapContainerAny>
           </div>
         </section>
       )}

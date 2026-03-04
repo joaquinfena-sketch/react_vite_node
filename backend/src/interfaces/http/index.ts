@@ -8,7 +8,7 @@ export function createApp() {
 
   app.use(
     cors({
-      origin: 'http://localhost:5173',
+      origin: ['http://localhost:5173', 'https://joaquinfena-sketch.github.io'],
     }),
   )
   app.use(express.json())

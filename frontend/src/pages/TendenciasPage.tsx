@@ -75,9 +75,11 @@ function TendenciasPage() {
                   width={40}
                 />
                 <Tooltip
-                  formatter={(value: number, key) =>
-                    [formatPercent(value), key === 'menWithProblems' ? 'Hombres' : 'Mujeres']
-                  }
+                  formatter={(value, key) => {
+                    const numericValue = typeof value === 'number' ? value : 0
+                    const label = key === 'menWithProblems' ? 'Hombres' : 'Mujeres'
+                    return [formatPercent(numericValue), label]
+                  }}
                   labelFormatter={(label) => `Edad: ${label}`}
                 />
                 <Legend />
