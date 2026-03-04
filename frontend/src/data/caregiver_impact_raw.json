@@ -1,0 +1,380 @@
+[{"Nombre":"Total, Total, Total", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"Total, Total, Sí tiene problemas profesionales", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Sí tiene problemas profesionales", "Codigo":"sitieneproblemasprofesionales"}
+]
+, "Data":[{"Valor":42.71}
+]
+}
+,{"Nombre":"Total, Total, No tiene ningún problema relacionado con su vida profesional", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"No tiene ningún problema relacionado con su vida profesional", "Codigo":"notieneningunproblemarelacionadoconsuvidaprofesional"}
+]
+, "Data":[{"Valor":57.29}
+]
+}
+,{"Nombre":"Total, Hasta 29 años, Total", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"Hasta 29 años", "Codigo":"hasta29anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"Total, Hasta 29 años, Sí tiene problemas profesionales", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"Hasta 29 años", "Codigo":"hasta29anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Sí tiene problemas profesionales", "Codigo":"sitieneproblemasprofesionales"}
+]
+, "Data":[{"Valor":34.52}
+]
+}
+,{"Nombre":"Total, Hasta 29 años, No tiene ningún problema relacionado con su vida profesional", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"Hasta 29 años", "Codigo":"hasta29anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"No tiene ningún problema relacionado con su vida profesional", "Codigo":"notieneningunproblemarelacionadoconsuvidaprofesional"}
+]
+, "Data":[{"Valor":65.48}
+]
+}
+,{"Nombre":"Total, De 30 a 44 años, Total", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 30 a 44 años", "Codigo":"de30a44anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"Total, De 30 a 44 años, Sí tiene problemas profesionales", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 30 a 44 años", "Codigo":"de30a44anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Sí tiene problemas profesionales", "Codigo":"sitieneproblemasprofesionales"}
+]
+, "Data":[{"Valor":54.38}
+]
+}
+,{"Nombre":"Total, De 30 a 44 años, No tiene ningún problema relacionado con su vida profesional", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 30 a 44 años", "Codigo":"de30a44anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"No tiene ningún problema relacionado con su vida profesional", "Codigo":"notieneningunproblemarelacionadoconsuvidaprofesional"}
+]
+, "Data":[{"Valor":45.62}
+]
+}
+,{"Nombre":"Total, De 45 a 64 años, Total", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 45 a 64 años", "Codigo":"de45a64anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"Total, De 45 a 64 años, Sí tiene problemas profesionales", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 45 a 64 años", "Codigo":"de45a64anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Sí tiene problemas profesionales", "Codigo":"sitieneproblemasprofesionales"}
+]
+, "Data":[{"Valor":53.21}
+]
+}
+,{"Nombre":"Total, De 45 a 64 años, No tiene ningún problema relacionado con su vida profesional", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 45 a 64 años", "Codigo":"de45a64anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"No tiene ningún problema relacionado con su vida profesional", "Codigo":"notieneningunproblemarelacionadoconsuvidaprofesional"}
+]
+, "Data":[{"Valor":46.79}
+]
+}
+,{"Nombre":"Total, De 65 a 79 años, Total", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 65 a 79 años", "Codigo":"de65a79anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"Total, De 65 a 79 años, Sí tiene problemas profesionales", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 65 a 79 años", "Codigo":"de65a79anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Sí tiene problemas profesionales", "Codigo":"sitieneproblemasprofesionales"}
+]
+, "Data":[{"Valor":25.99}
+]
+}
+,{"Nombre":"Total, De 65 a 79 años, No tiene ningún problema relacionado con su vida profesional", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 65 a 79 años", "Codigo":"de65a79anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"No tiene ningún problema relacionado con su vida profesional", "Codigo":"notieneningunproblemarelacionadoconsuvidaprofesional"}
+]
+, "Data":[{"Valor":74.01}
+]
+}
+,{"Nombre":"Total, De 80 y más años, Total", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 80 y más años", "Codigo":"de80ymasanos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"Total, De 80 y más años, Sí tiene problemas profesionales", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 80 y más años", "Codigo":"de80ymasanos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Sí tiene problemas profesionales", "Codigo":"sitieneproblemasprofesionales"}
+]
+, "Data":[{"Valor":18.62}
+]
+}
+,{"Nombre":"Total, De 80 y más años, No tiene ningún problema relacionado con su vida profesional", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 80 y más años", "Codigo":"de80ymasanos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"No tiene ningún problema relacionado con su vida profesional", "Codigo":"notieneningunproblemarelacionadoconsuvidaprofesional"}
+]
+, "Data":[{"Valor":81.38}
+]
+}
+,{"Nombre":"Hombre, Total, Total", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Hombre", "Codigo":"hombre"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"Hombre, Total, Sí tiene problemas profesionales", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Hombre", "Codigo":"hombre"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Sí tiene problemas profesionales", "Codigo":"sitieneproblemasprofesionales"}
+]
+, "Data":[{"Valor":36.3}
+]
+}
+,{"Nombre":"Hombre, Total, No tiene ningún problema relacionado con su vida profesional", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Hombre", "Codigo":"hombre"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"No tiene ningún problema relacionado con su vida profesional", "Codigo":"notieneningunproblemarelacionadoconsuvidaprofesional"}
+]
+, "Data":[{"Valor":63.7}
+]
+}
+,{"Nombre":"Hombre, Hasta 29 años, Total", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Hombre", "Codigo":"hombre"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"Hasta 29 años", "Codigo":"hasta29anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"Hombre, Hasta 29 años, Sí tiene problemas profesionales", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Hombre", "Codigo":"hombre"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"Hasta 29 años", "Codigo":"hasta29anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Sí tiene problemas profesionales", "Codigo":"sitieneproblemasprofesionales"}
+]
+, "Data":[{"Valor":32.67}
+]
+}
+,{"Nombre":"Hombre, Hasta 29 años, No tiene ningún problema relacionado con su vida profesional", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Hombre", "Codigo":"hombre"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"Hasta 29 años", "Codigo":"hasta29anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"No tiene ningún problema relacionado con su vida profesional", "Codigo":"notieneningunproblemarelacionadoconsuvidaprofesional"}
+]
+, "Data":[{"Valor":67.33}
+]
+}
+,{"Nombre":"Hombre, De 30 a 44 años, Total", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Hombre", "Codigo":"hombre"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 30 a 44 años", "Codigo":"de30a44anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"Hombre, De 30 a 44 años, Sí tiene problemas profesionales", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Hombre", "Codigo":"hombre"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 30 a 44 años", "Codigo":"de30a44anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Sí tiene problemas profesionales", "Codigo":"sitieneproblemasprofesionales"}
+]
+, "Data":[{"Valor":39.13}
+]
+}
+,{"Nombre":"Hombre, De 30 a 44 años, No tiene ningún problema relacionado con su vida profesional", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Hombre", "Codigo":"hombre"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 30 a 44 años", "Codigo":"de30a44anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"No tiene ningún problema relacionado con su vida profesional", "Codigo":"notieneningunproblemarelacionadoconsuvidaprofesional"}
+]
+, "Data":[{"Valor":60.87}
+]
+}
+,{"Nombre":"Hombre, De 45 a 64 años, Total", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Hombre", "Codigo":"hombre"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 45 a 64 años", "Codigo":"de45a64anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"Hombre, De 45 a 64 años, Sí tiene problemas profesionales", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Hombre", "Codigo":"hombre"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 45 a 64 años", "Codigo":"de45a64anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Sí tiene problemas profesionales", "Codigo":"sitieneproblemasprofesionales"}
+]
+, "Data":[{"Valor":48.72}
+]
+}
+,{"Nombre":"Hombre, De 45 a 64 años, No tiene ningún problema relacionado con su vida profesional", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Hombre", "Codigo":"hombre"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 45 a 64 años", "Codigo":"de45a64anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"No tiene ningún problema relacionado con su vida profesional", "Codigo":"notieneningunproblemarelacionadoconsuvidaprofesional"}
+]
+, "Data":[{"Valor":51.28}
+]
+}
+,{"Nombre":"Hombre, De 65 a 79 años, Total", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Hombre", "Codigo":"hombre"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 65 a 79 años", "Codigo":"de65a79anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"Hombre, De 65 a 79 años, Sí tiene problemas profesionales", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Hombre", "Codigo":"hombre"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 65 a 79 años", "Codigo":"de65a79anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Sí tiene problemas profesionales", "Codigo":"sitieneproblemasprofesionales"}
+]
+, "Data":[{"Valor":22.52}
+]
+}
+,{"Nombre":"Hombre, De 65 a 79 años, No tiene ningún problema relacionado con su vida profesional", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Hombre", "Codigo":"hombre"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 65 a 79 años", "Codigo":"de65a79anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"No tiene ningún problema relacionado con su vida profesional", "Codigo":"notieneningunproblemarelacionadoconsuvidaprofesional"}
+]
+, "Data":[{"Valor":77.48}
+]
+}
+,{"Nombre":"Hombre, De 80 y más años, Total", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Hombre", "Codigo":"hombre"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 80 y más años", "Codigo":"de80ymasanos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"Hombre, De 80 y más años, Sí tiene problemas profesionales", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Hombre", "Codigo":"hombre"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 80 y más años", "Codigo":"de80ymasanos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Sí tiene problemas profesionales", "Codigo":"sitieneproblemasprofesionales"}
+]
+, "Data":[{"Valor":14.41}
+]
+}
+,{"Nombre":"Hombre, De 80 y más años, No tiene ningún problema relacionado con su vida profesional", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Hombre", "Codigo":"hombre"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 80 y más años", "Codigo":"de80ymasanos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"No tiene ningún problema relacionado con su vida profesional", "Codigo":"notieneningunproblemarelacionadoconsuvidaprofesional"}
+]
+, "Data":[{"Valor":85.59}
+]
+}
+,{"Nombre":"Mujer, Total, Total", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Mujer", "Codigo":"mujer"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"Mujer, Total, Sí tiene problemas profesionales", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Mujer", "Codigo":"mujer"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Sí tiene problemas profesionales", "Codigo":"sitieneproblemasprofesionales"}
+]
+, "Data":[{"Valor":46.59}
+]
+}
+,{"Nombre":"Mujer, Total, No tiene ningún problema relacionado con su vida profesional", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Mujer", "Codigo":"mujer"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"Total", "Codigo":"total"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"No tiene ningún problema relacionado con su vida profesional", "Codigo":"notieneningunproblemarelacionadoconsuvidaprofesional"}
+]
+, "Data":[{"Valor":53.41}
+]
+}
+,{"Nombre":"Mujer, Hasta 29 años, Total", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Mujer", "Codigo":"mujer"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"Hasta 29 años", "Codigo":"hasta29anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"Mujer, Hasta 29 años, Sí tiene problemas profesionales", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Mujer", "Codigo":"mujer"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"Hasta 29 años", "Codigo":"hasta29anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Sí tiene problemas profesionales", "Codigo":"sitieneproblemasprofesionales"}
+]
+, "Data":[{"Valor":35.61}
+]
+}
+,{"Nombre":"Mujer, Hasta 29 años, No tiene ningún problema relacionado con su vida profesional", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Mujer", "Codigo":"mujer"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"Hasta 29 años", "Codigo":"hasta29anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"No tiene ningún problema relacionado con su vida profesional", "Codigo":"notieneningunproblemarelacionadoconsuvidaprofesional"}
+]
+, "Data":[{"Valor":64.39}
+]
+}
+,{"Nombre":"Mujer, De 30 a 44 años, Total", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Mujer", "Codigo":"mujer"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 30 a 44 años", "Codigo":"de30a44anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"Mujer, De 30 a 44 años, Sí tiene problemas profesionales", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Mujer", "Codigo":"mujer"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 30 a 44 años", "Codigo":"de30a44anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Sí tiene problemas profesionales", "Codigo":"sitieneproblemasprofesionales"}
+]
+, "Data":[{"Valor":64.13}
+]
+}
+,{"Nombre":"Mujer, De 30 a 44 años, No tiene ningún problema relacionado con su vida profesional", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Mujer", "Codigo":"mujer"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 30 a 44 años", "Codigo":"de30a44anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"No tiene ningún problema relacionado con su vida profesional", "Codigo":"notieneningunproblemarelacionadoconsuvidaprofesional"}
+]
+, "Data":[{"Valor":35.87}
+]
+}
+,{"Nombre":"Mujer, De 45 a 64 años, Total", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Mujer", "Codigo":"mujer"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 45 a 64 años", "Codigo":"de45a64anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"Mujer, De 45 a 64 años, Sí tiene problemas profesionales", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Mujer", "Codigo":"mujer"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 45 a 64 años", "Codigo":"de45a64anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Sí tiene problemas profesionales", "Codigo":"sitieneproblemasprofesionales"}
+]
+, "Data":[{"Valor":55.68}
+]
+}
+,{"Nombre":"Mujer, De 45 a 64 años, No tiene ningún problema relacionado con su vida profesional", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Mujer", "Codigo":"mujer"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 45 a 64 años", "Codigo":"de45a64anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"No tiene ningún problema relacionado con su vida profesional", "Codigo":"notieneningunproblemarelacionadoconsuvidaprofesional"}
+]
+, "Data":[{"Valor":44.32}
+]
+}
+,{"Nombre":"Mujer, De 65 a 79 años, Total", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Mujer", "Codigo":"mujer"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 65 a 79 años", "Codigo":"de65a79anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"Mujer, De 65 a 79 años, Sí tiene problemas profesionales", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Mujer", "Codigo":"mujer"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 65 a 79 años", "Codigo":"de65a79anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Sí tiene problemas profesionales", "Codigo":"sitieneproblemasprofesionales"}
+]
+, "Data":[{"Valor":28.09}
+]
+}
+,{"Nombre":"Mujer, De 65 a 79 años, No tiene ningún problema relacionado con su vida profesional", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Mujer", "Codigo":"mujer"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 65 a 79 años", "Codigo":"de65a79anos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"No tiene ningún problema relacionado con su vida profesional", "Codigo":"notieneningunproblemarelacionadoconsuvidaprofesional"}
+]
+, "Data":[{"Valor":71.91}
+]
+}
+,{"Nombre":"Mujer, De 80 y más años, Total", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Mujer", "Codigo":"mujer"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 80 y más años", "Codigo":"de80ymasanos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Total", "Codigo":"total"}
+]
+, "Data":[{"Valor":100.0}
+]
+}
+,{"Nombre":"Mujer, De 80 y más años, Sí tiene problemas profesionales", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Mujer", "Codigo":"mujer"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 80 y más años", "Codigo":"de80ymasanos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"Sí tiene problemas profesionales", "Codigo":"sitieneproblemasprofesionales"}
+]
+, "Data":[{"Valor":22.52}
+]
+}
+,{"Nombre":"Mujer, De 80 y más años, No tiene ningún problema relacionado con su vida profesional", "MetaData":[{"T3_Variable":"Sexo", "Nombre":"Mujer", "Codigo":"mujer"}
+,{"T3_Variable":"Edad del cuidador", "Nombre":"De 80 y más años", "Codigo":"de80ymasanos"}
+,{"T3_Variable":"Problemas profesionales", "Nombre":"No tiene ningún problema relacionado con su vida profesional", "Codigo":"notieneningunproblemarelacionadoconsuvidaprofesional"}
+]
+, "Data":[{"Valor":77.48}
+]
+}
+]
+
